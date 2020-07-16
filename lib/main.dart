@@ -1,4 +1,6 @@
+import 'package:custom_painter/pages/header_curvo.dart';
 import 'package:custom_painter/pages/header_diagonal.dart';
+import 'package:custom_painter/pages/header_waves.dart';
 import 'package:flutter/material.dart';
 
 void main() {
